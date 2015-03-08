@@ -8,7 +8,11 @@
     "test": "test"
   },
   "dependencies": {
-    "chai": "^2.1.1"
+    "binaryjs": "^0.2.1",
+    "chai": "^2.1.1",
+    "express": "^4.12.2",
+    "jade": "^1.9.2",
+    "wav": "^0.1.2"
   },
   "devDependencies": {
     "mocha": "^2.2.0"
