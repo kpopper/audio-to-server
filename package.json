@@ -1,0 +1,21 @@
+{
+  "name": "audio-to-server",
+  "version": "0.0.0",
+  "description": "Example node app for sending browser-recorded audio to a server",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Ian Kynnersley <ian@iankynnersley.co.uk>",
+  "license": "MIT"
+}
